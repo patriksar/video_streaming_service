@@ -1,0 +1,24 @@
+App Challenges:
+
+- Routing
+- OAuth ( using google )
+- Need to handle forms in Redux
+- Use of CRUD (Create Read Update Destroy)
+- Error Handling
+
+
+Dependencies:
+- react-router-dom
+- redux
+- react-redux
+- redux-form
+- axios
+- redux-thunk
+- lodash
+
+Extensions:
+- Redux DevTools
+
+-http://localhost:3000/?debug_session=dskljfsf
+
+Using Redux dev tools, saves states between refreshes
