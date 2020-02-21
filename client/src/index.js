@@ -8,7 +8,7 @@ import App from './components/App';
 import reducers from './reducers';
 
 const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
-const NodeMediaServer = require('node-media-server');
+//const NodeMediaServer = require('node-media-server');
 const store = createStore(
     reducers,
     composeEnhancers(applyMiddleware(reduxThunk))

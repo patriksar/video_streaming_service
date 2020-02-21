@@ -15,9 +15,14 @@ Dependencies:
 - axios
 - redux-thunk
 - lodash
+- flv.js
+- node-media-server
 
 Extensions:
 - Redux DevTools
+
+Optional:
+-OBS
 
 -http://localhost:3000/?debug_session=dskljfsf
 
